@@ -1,0 +1,10 @@
+#quantity: log10(L^line/L^FUV)
+#line: OIII4959
+#z:13
+#SPS: BPASSv2.2.1.binary
+#IMF: ModSalpeter_300
+log10(L^FUV/erg/s) N P16 P50 P84
+43.60 18 -2.27 -2.13 -1.97
+43.80 38 -2.26 -2.09 -1.94
+44.00 22 -2.18 -2.00 -1.88
+44.20 12 -2.07 -1.98 -1.96

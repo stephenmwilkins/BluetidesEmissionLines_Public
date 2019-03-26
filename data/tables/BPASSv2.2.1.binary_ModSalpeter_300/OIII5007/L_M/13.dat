@@ -1,0 +1,9 @@
+#quantity: log10[(L/M*)/erg/s/Msun]
+#line: OIII5007
+#z:13
+#SPS: BPASSv2.2.1.binary
+#IMF: ModSalpeter_300
+log10(M*/Msun) N P16 P50 P84
+8.10 60 33.79 34.05 34.24
+8.30 22 33.92 34.13 34.35
+8.50 13 33.99 34.13 34.25

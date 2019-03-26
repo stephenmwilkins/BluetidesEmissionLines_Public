@@ -1,0 +1,9 @@
+#quantity: log10(EW/Angstrom)
+#line: OIII5007
+#z:13
+#SPS: BPASSv2.2.1.binary
+#IMF: ModSalpeter_300
+log10(M*/Msun) N P16 P50 P84
+8.10 60 2.61 2.78 2.93
+8.30 22 2.70 2.89 2.97
+8.50 13 2.78 2.85 2.95
