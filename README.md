@@ -23,7 +23,7 @@ ASCII files are available for each combination of SPS model, IMF, line, and reds
 
 ### lines
 
-![useful image]({{ site.url }}/paper/figures/line_visibility.pdf)
+![useful image](/paper/figures/line_visibility.pdf)
 
 - HI1216
 - CIII1909-CIII1907
