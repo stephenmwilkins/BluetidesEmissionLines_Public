@@ -21,5 +21,27 @@ ASCII files are available for each combination of SPS model, IMF, line, and reds
 - BPASS v2.1, Modified Salpeter IMF, M_up = 300
 - PEGASE v2
 
+### lines
 
+- HI1216
+- CIII1909-CIII1907
+- OII3726-OII3729
+- NeIII3869
+- NeIII3967
+- HI4340
+- HI4861
+- OIII4959
+- OIII5007
+- HI6563
+- NII6583
+- SII6731-SII6716
+
+### redshifts
+
+- z=8
+- z=9
+- z=10
+- z=11
+- z=12
+- z=13
 
