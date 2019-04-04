@@ -2,7 +2,7 @@
 
 ## Nebular Emission During the Epoch of Reionization
 
-This page contains the predicted line properties of galaxies in the epoch of reionization associated with [Wilkins et al. 2019](http://arxiv.com).
+This page contains the predicted line properties of galaxies in the epoch of reionization associated with [Wilkins et al. 2019](http://arxiv.com). You can also download the paper [here]({{ site.url }}/paper/paper.pdf).
 
 ASCII files are available for each combination of SPS model, IMF, line, and redshift for four different quantity combinations:
 
@@ -22,6 +22,8 @@ ASCII files are available for each combination of SPS model, IMF, line, and reds
 - PEGASE v2
 
 ### lines
+
+![useful image]({{ site.url }}/paper/figures/line_visibility.pdf)
 
 - HI1216
 - CIII1909-CIII1907
